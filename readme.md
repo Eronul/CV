@@ -30,7 +30,7 @@
 
 <p>**项目源码**</p>
 
-<p>https://eronul.github.io/CV/， 点击查看效果预览</p>
+<p>https://eronul.github.io/CV/ 点击查看效果预览</p>
 
 
 ## 个人评价
